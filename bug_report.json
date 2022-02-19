@@ -1,5 +1,6 @@
 {
   "Project": "XXX",
   "Version": 123,
-"  Severity": "s1"
+  "Severity": "s1",
+  "Priority": "p1"
 }
