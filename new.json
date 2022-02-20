@@ -1,9 +1,9 @@
 {
 
-	"ФИО": "Pyak_Khen_Gvan",
-	"возраст": 53,
-	"количество домашних животных": 3,
-	"будущая желаемая зарплата": 3000
+	"Full_name": "Pyak_Khen_Gvan",
+	"age": 53,
+	"number_of_pets": 3,
+	"desired_salary": 3000
 
 }
      
